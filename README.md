@@ -1,0 +1,1 @@
+Material de estudo da série de cursos da code education / school of net de laravel - angular - ionic está é a aplicação laravel
